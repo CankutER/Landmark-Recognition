@@ -1,0 +1,13 @@
+organized_dataset
+organized_dataset/**
+venv
+venv/**
+images*
+md5*
+test
+test/**
+train 
+train/**
+*.csv
+r50delg*
+resnet50_landmark_model.keras
